@@ -7,8 +7,7 @@ This is an Amazon Clone web application build using React JS and Firebase with f
 
     1. User login and authentication with Google firebase
     2. Google firestore to store products and order details
-    3. State management with useState hook
-    4. Stripe Payment Gateway integration
+    3. Stripe Payment Gateway integration
 
  
 ## Demo
